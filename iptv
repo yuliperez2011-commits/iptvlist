@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1,ESPN Premium
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+#EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="Entretenimiento",TNT SPORT
+http://190.7.19.197:232/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Entretenimiento",ESPN PREMIUM
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO1" tvg-name="HBO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Películas y Series",HBO 1
+http://190.7.19.197:232/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Películas y Series",HBO 2
+http://190.7.19.197:232/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Películas y Series",HBO 3
+http://190.7.19.197:232/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO4" tvg-name="HBO 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Películas y Series",HBO 4
+http://190.7.19.197:232/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO5" tvg-name="HBO 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Películas y Series",HBO 5
+http://190.7.19.197:232/play/a017/index.m3u8
