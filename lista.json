@@ -1,52 +1,50 @@
-"name": "IPTV List",
-  "channels": [
-    {
-      "name": "ESPN Premium 1",
-      "category": "Futbol",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg",
-      "url": "http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8"
-    },
-    {
-      "name": "TNT Sports",
-      "category": "Futbol",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-      "url": "http://190.7.19.197:232/play/a037/index.m3u8"
-    },
-    {
-      "name": "ESPN Premium 2",
-      "category": "Futbol",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg",
-      "url": "http://190.7.19.197:232/play/a038/index.m3u8"
-    },
-    {
-      "name": "HBO 1",
-      "category": "Peliculas y Series",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
-      "url": "http://190.7.19.197:232/play/a01m/index.m3u8"
-    },
-    {
-      "name": "HBO 2",
-      "category": "Peliculas y Series",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
-      "url": "http://190.7.19.197:232/play/a016/index.m3u8"
-    },
-    {
-      "name": "HBO 3",
-      "category": "Peliculas y Series",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
-      "url": "http://190.7.19.197:232/play/a05f/index.m3u8"
-    },
-    {
-      "name": "HBO 4",
-      "category": "Peliculas y Series",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
-      "url": "http://190.7.19.197:232/play/a04g/index.m3u8"
-    },
-    {
-      "name": "HBO 5",
-      "category": "Peliculas y Series",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
-      "url": "http://190.7.19.197:232/play/a017/index.m3u8"
-    }
-  ]
-}
+[
+  {
+    "name": "ESPN Premium 1",
+    "url": "http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg",
+    "category": "Futbol"
+  },
+  {
+    "name": "TNT Sports",
+    "url": "http://190.7.19.197:232/play/a037/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
+    "category": "Futbol"
+  },
+  {
+    "name": "ESPN Premium 2",
+    "url": "http://190.7.19.197:232/play/a038/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg",
+    "category": "Futbol"
+  },
+  {
+    "name": "HBO 1",
+    "url": "http://190.7.19.197:232/play/a01m/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
+    "category": "Peliculas y Series"
+  },
+  {
+    "name": "HBO 2",
+    "url": "http://190.7.19.197:232/play/a016/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
+    "category": "Peliculas y Series"
+  },
+  {
+    "name": "HBO 3",
+    "url": "http://190.7.19.197:232/play/a05f/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
+    "category": "Peliculas y Series"
+  },
+  {
+    "name": "HBO 4",
+    "url": "http://190.7.19.197:232/play/a04g/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
+    "category": "Peliculas y Series"
+  },
+  {
+    "name": "HBO 5",
+    "url": "http://190.7.19.197:232/play/a017/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",
+    "category": "Peliculas y Series"
+  }
+]
